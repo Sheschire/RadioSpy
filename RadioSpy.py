@@ -24,8 +24,8 @@ PLAYLIST = {
 # Email Configuration
 SMTP_SERVER = "smtp.gmail.com"  # Replace with your SMTP server (e.g., for Gmail)
 SMTP_PORT = 587  # Common SMTP port
-EMAIL_ADDRESS = "theo.lemesle42@gmail.com"  # Your email address
-EMAIL_PASSWORD = "lszz ijkf fupp fjgs "  # Your email password (use app password if needed)
+EMAIL_ADDRESS = ""  # Your email address
+EMAIL_PASSWORD = ""  # Your email password (use app password if needed)
 
 # Audio record parameters
 DURATION = 5  # Recording duration in seconds
